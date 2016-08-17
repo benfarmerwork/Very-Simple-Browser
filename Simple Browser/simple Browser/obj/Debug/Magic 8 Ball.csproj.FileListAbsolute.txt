@@ -1,0 +1,9 @@
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.exe.config
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.exe
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.pdb
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic_8_Ball.Form1.resources
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic_8_Ball.Properties.Resources.resources
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.exe
+F:\Visual Studio 2015\Projects\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.pdb
